@@ -1,0 +1,14 @@
+= dengjen-tts-go
+
+Go bindings for https://github.com/ZirekHQ/dengjen-tts[dengjen-tts], published with prebuilt
+native binaries for linux/amd64, linux/arm64, windows/amd64, and darwin/arm64.
+
+[source,bash]
+----
+go get github.com/ZirekHQ/dengjen-tts-go@v0.1.0
+----
+
+CAUTION: This repository's binaries are generated on release — do not hand-edit them.
+
+Docs spike: this component is aggregated into the org-wide
+https://zirekhq.github.io[ZirekHQ documentation site].
