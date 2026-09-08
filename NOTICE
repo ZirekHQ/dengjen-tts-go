@@ -1,0 +1,15 @@
+The binaries in this module were built from ZirekHQ/dengjen-tts at
+commit fec17faddbdd88dd6a63ff028fd77629c53aef35
+(https://github.com/ZirekHQ/dengjen-tts/tree/fec17faddbdd88dd6a63ff028fd77629c53aef35).
+That exact tree — not the parent repository's moving `main`
+branch — is the corresponding source for this release under
+GPL-3.0-or-later.
+
+This module bundles third-party components as prebuilt native
+binaries. See the parent project's own NOTICE
+(https://github.com/ZirekHQ/dengjen-tts/blob/fec17faddbdd88dd6a63ff028fd77629c53aef35/NOTICE)
+for the full attribution text; the same ONNX Runtime (MIT) and
+sonic (Apache-2.0) attributions apply here, since this module's
+binaries are built from that project's source. espeak-ng-data is
+bundled under its own GPL license; the parent project (and this
+module) are GPL-3.0-or-later.
